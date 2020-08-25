@@ -1,3 +1,9 @@
+/* 
+*  Adam's Bustabit script 
+*  Version 1.0 
+*  Description: This script employs basic martingale strategy but ends the script once a target profit has been earned 
+*/
+
 var config = {
   profit: { value: 100, type: 'balance', label: 'profit to end script' },
   baseBet: { value: 100, type: 'balance', label: 'base bet' },
