@@ -3,7 +3,7 @@
 When employed correctly, this strategy seems to earn profits, but it's entirely dependent on the size of your bankroll and profit goals.  I plan to run further simulation tests with this.  Reccomendations below.
 
 ### Disclaimer
-I (Adam Gasiewski) am not responsible for any loss that one may incur using this script.  It is impossible to turn a EV- game to EV+.  Please gamble responsibly and understand how this program works.
+I (Adam Gasiewski) am not responsible for any loss that one may incur using this script.  It is impossible to turn an EV- game to EV+.  Please gamble responsibly and understand how this program works.
 
 
 ## Strategy
