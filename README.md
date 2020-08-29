@@ -7,7 +7,7 @@ I (Adam Gasiewski) am not responsible for any loss that one may incur using this
 
 
 ## Strategy
-This script employs the martingale strategy
+This script employs the martingale strategy.
 I modified an existing martingale script to automatically end itself once a specified profit has been made. This helps reduce the amount of times you wipe your bankroll since you don't let the script run endlessly.
 
 For example, if you have 1000 bits and want the script to end once a 100 bit profit has been attained, you would put 100 in the "profit to end script" field.
